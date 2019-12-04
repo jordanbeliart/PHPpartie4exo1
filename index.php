@@ -1,5 +1,5 @@
 <?php
-$number = 8;
+$number = 4;
 /* déclaration d'une fonction "cube" qui va calculer le cube
  de la variable 'number' indiquée entre () pour ensuite retourner le résultat */
 function cube($number){
